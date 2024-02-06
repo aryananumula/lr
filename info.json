@@ -1,6 +1,6 @@
 {
   "bannedUsers": [554127446279061505],
   "imageModel": "stable-diffusion-xl-base-1.0",
-  "userTimes": {"araeyn": -5},
+  "userTimes": {"araeyn": 5},
   "imageModels": ["Stable Diffusion 2-1", "stable-diffusion-xl-base-1.0", "sdxl-turbo", "sd-turbo", "Proteus v0.2"]
 }
