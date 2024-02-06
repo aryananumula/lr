@@ -1,6 +1,4 @@
 {
-  "bannedUsers": [
-    722487795154681907
-  ],
-  "imageModel": "Stable Diffusion 2-1"
+  "bannedUsers": [],
+  "imageModel": "sdxl-turbo"
 }
